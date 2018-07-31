@@ -1,0 +1,1 @@
+If system logs are extracted from any touchpoints, they will be saved to this dir.
